@@ -3,8 +3,8 @@ This repo accompanies the blog for "Syntactic analysis of Bert and Bart" (https:
 
 It draws heavy inspiration from Goldberg's work (https://github.com/yoavg/bert-syntax).
 
-# Pre reqs
-`pip install transformers`
+# Installations
+`pip install transformers`  
 `pip install torch`
 
 # Execution
